@@ -1,5 +1,5 @@
 package dog
 
-func dog() int {
+func Dog() int {
 	return 34
 }
